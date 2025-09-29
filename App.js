@@ -22,9 +22,9 @@ const styles = StyleSheet.create({
 
   info: {
     fontSize: 30,
-    marginBottom: 50,
-    padding: 20,
-    borderWidth: 3,
+    marginBottom: 10,
+    padding: 10,
+    borderWidth: 2,
     borderRadius: 20,
   },
 });
